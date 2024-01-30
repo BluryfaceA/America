@@ -1,0 +1,11 @@
+*{
+    box-sizing: border-box; /* si agregamos margen o padding no crecas mas del tammaño que damos*/
+}
+/*codigo general*/
+
+
+body{
+    font-family: 'Roboto', sans-serif;
+    margin: 0;
+    
+}
